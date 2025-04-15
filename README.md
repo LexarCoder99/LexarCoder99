@@ -17,7 +17,7 @@
 
 <h2 align="left"  >Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nitesh pandey" target="blank" >
+  <a href="https://www.linkedin.com/in/lexarcoder99" target="blank" >
     <img
       align="center"
       src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"
